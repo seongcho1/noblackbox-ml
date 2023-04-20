@@ -14,16 +14,40 @@ https://github.com/gniziemazity/drawing-data
 
 ```
 cd node
+#brew install node
+#brew install pkg-config cairo pango libpng jpeg giflib librsvg
 npm install canvas
-node dataset_generator.j
+```
+
+```
+cd ../data
+md dataset;cd dataset
+md json; md img
+cd ../..
+
+cd node
+node dataset_generator.js
 ```
 ## (1:08:54) Data Visualizer
 
 ## (1:30:05) Feature Extraction
 
-1:30:05
+```
+cd data
+md dataset;cd dataset
+md json; md img
+cd ../..
+
+cd node
+node feature_extractor.js
+```
 
 ## (1:38:07) Scatter Plot
+
+
+1:41:15
+
+
 ## (1:46:12) Custom Chart
 ## (2:01:03) Homework 3
 ## (2:01:35) Nearest Neighbor Classifier
