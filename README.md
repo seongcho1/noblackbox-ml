@@ -44,13 +44,13 @@ node feature_extractor.js
 
 ## (1:38:07) Scatter Plot
 
-
-1:41:15
-
-
 ## (1:46:12) Custom Chart
-## (2:01:03) Homework 3
+
 ## (2:01:35) Nearest Neighbor Classifier
+
+2:02:00
+
+
 ## (2:43:21) Homework 4 (better box)
 ## (2:43:53) Data Scaling
 ## (2:54:45) Homework 5
